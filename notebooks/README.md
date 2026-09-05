@@ -9,4 +9,3 @@ An end-to-end Machine Learning web application that predicts a loan applicant's 
   - **Random Forest Regressor**: Estimates maximum safe EMI amount (~99% R² Score).
 - **Interactive UI**: Real-time Streamlit dashboard for instant financial risk assessment.
 
-## 🛠️ Project Structure
